@@ -2,7 +2,23 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_6/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />

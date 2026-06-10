@@ -334,7 +334,7 @@ class _CatatanFormPageState extends State<CatatanFormPage> {
             ),
             const SizedBox(height: 16),
             DropdownButtonFormField<String>(
-              value: _kategori,
+              initialValue: _kategori,
               decoration: const InputDecoration(
                 labelText: 'Kategori',
                 prefixIcon: Icon(Icons.category),
